@@ -1,0 +1,7 @@
+{
+  "default_persona": "coder",
+  "help_template": "当前有效角色卡包括：{{cards_list}}。你可以使用 /switch [角色ID] 进行切换。",
+  "switch_success_template": "已成功为你切入灵魂：{{character_name}}。以下是她的开场白：\n\n{{first_message}}",
+  "switch_fail_template": "切换失败：未找到名为 [{{target_id}}] 的角色卡，请输入 /switch 查看有效列表。",
+  "system_prompt_base_template": "{{system_prompt}}"
+}

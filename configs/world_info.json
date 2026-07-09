@@ -1,0 +1,9 @@
+{
+  "default_global_world": "",
+  "scan_history_depth": 2,
+  "max_token_budget": 1500,
+  "priority_offset_character": 100,
+  "world_info_help_template": "当前有效全局世界书包括：{{world_list}}。你可以使用 /world select [世界书ID] 进行锁定。",
+  "world_select_success_template": "已成功锁定全局世界观背景：[{{world_id}}].",
+  "world_select_fail_template": "锁定失败：未找到名为 [{{world_id}}] 的世界书文件。"
+}
